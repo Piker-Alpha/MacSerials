@@ -418,6 +418,14 @@ HK2R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HK32: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>urBeats (2nd generation)</configCode><locale>en_US</locale></root>
 HKJH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
 HKJJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
+HLF9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
+HLFC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
+HLFD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
+HLFF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
+HLJJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+HLJK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+HLJL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+HLJM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 HLWV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HMC6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 HMMF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
@@ -425,6 +433,10 @@ HMMQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HN8P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HP49: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 HP4D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+HP61: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+HP62: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+HP9X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
+HP9Y: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation)</configCode><locale>en_US</locale></root>
 HPXN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
 HPXP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
 HPXQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
@@ -459,6 +471,22 @@ HQ9W: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HRMD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 HRMF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 HRMG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
+HTVK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTVX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
+HTW5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
 HTYF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 HV2K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 HV36: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
@@ -475,6 +503,18 @@ HV5N: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HWCG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HWCH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HWH2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+HX96: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX97: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX98: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX99: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX9C: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX9D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+HX9F: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9G: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
 HXD3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HXD5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 HXF8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
