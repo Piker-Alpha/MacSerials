@@ -222,9 +222,9 @@ HD8M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HD98: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 HDNK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 HDQV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HDQX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HDR2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HDR3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+HDQX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+HDR2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+HDR3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
 HDV4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 HDV5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 HDX5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Aluminum 38mm (2nd gen)</configCode><locale>en_US</locale></root>
