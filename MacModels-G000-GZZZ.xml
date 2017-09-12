@@ -870,8 +870,8 @@ GQ18: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 GQ62: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQ63: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQ64: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
-GQ65: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-GQ66: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+GQ65: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+GQ66: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
 GQCL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQCM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQCP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
@@ -879,11 +879,11 @@ GQCQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 GQCR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQCT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 GQCX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (27-inch, Late 2013)</configCode><locale>en_US</locale></root>
-GQDK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-GQDV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-GQDX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-GQDY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-GQF0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+GQDK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>EP</configCode><locale>en_US</locale></root>
+GQDV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>EP</configCode><locale>en_US</locale></root>
+GQDX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>EP</configCode><locale>en_US</locale></root>
+GQDY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>EP</configCode><locale>en_US</locale></root>
+GQF0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>EP</configCode><locale>en_US</locale></root>
 GQF7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo 2</configCode><locale>en_US</locale></root>
 GQF8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo 2</configCode><locale>en_US</locale></root>
 GQF9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo 2</configCode><locale>en_US</locale></root>
