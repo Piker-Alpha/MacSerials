@@ -168,11 +168,11 @@ H8L3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 H8L5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
 H8L6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
 H8TT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-H8VD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-H8VF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-H8VG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-H8VH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-H8VJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+H8VD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+H8VF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+H8VG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+H8VH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+H8VJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
 H8VT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 H8VV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 H8VW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
@@ -421,9 +421,9 @@ HH2K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HHMG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HHYK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Nike + 38mm (2nd gen)</configCode><locale>en_US</locale></root>
 HHYL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Nike + 42mm (2nd gen)</configCode><locale>en_US</locale></root>
-HJ7X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HJ7Y: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HJ80: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+HJ7X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Smart Battery Case</configCode><locale>en_US</locale></root>
+HJ7Y: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Smart Battery Case</configCode><locale>en_US</locale></root>
+HJ80: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Smart Battery Case</configCode><locale>en_US</locale></root>
 HJJF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Smart Keyboard</configCode><locale>en_US</locale></root>
 HJLC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Nike + 38mm (2nd gen)</configCode><locale>en_US</locale></root>
 HJLD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Nike + 42mm (2nd gen)</configCode><locale>en_US</locale></root>
@@ -434,8 +434,8 @@ HJLL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HJLR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Aluminum 38mm (2nd gen)</configCode><locale>en_US</locale></root>
 HJLT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 2 Aluminum 42mm (2nd gen)</configCode><locale>en_US</locale></root>
 HJRN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
-HK2Q: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
-HK2R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+HK2Q: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+HK2R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
 HK32: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>urBeats (2nd generation)</configCode><locale>en_US</locale></root>
 HKJH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
 HKJJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
@@ -448,7 +448,9 @@ HLJK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HLJL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 HLJM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad (5th generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 HLWV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
-HMC6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+HMC6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+HMHT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
+HMHV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
 HMMF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 15-inch, Mid 2015)</configCode><locale>en_US</locale></root>
 HMMQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HN8P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
@@ -591,6 +593,10 @@ HTW3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HTW4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
 HTW5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone SE</configCode><locale>en_US</locale></root>
 HTYF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 13-inch, Early 2015)</configCode><locale>en_US</locale></root>
+HTYP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+HTYR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+HTYY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+HV01: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
 HV22: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HV27: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HV29: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
@@ -621,9 +627,12 @@ HV5K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HV5L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HV5M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HV5N: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+HV90: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Studio Wireless</configCode><locale>en_US</locale></root>
 HWCG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HWCH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HWH2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+HX8R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+HX8X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 HX96: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
 HX97: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
 HX98: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
@@ -636,13 +645,19 @@ HX9H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HX9J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
 HX9K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
 HX9L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+HX9P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+HX9R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+HX9T: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
+HX9W: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
 HXD3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HXD5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 HXF8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HXR5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 6</configCode><locale>en_US</locale></root>
 HXR6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 6</configCode><locale>en_US</locale></root>
+HY8Y: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
 HYFK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 6</configCode><locale>en_US</locale></root>
 HYFL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 6</configCode><locale>en_US</locale></root>
 HYGQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
+HYJ0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Solo3 Wireless</configCode><locale>en_US</locale></root>
 HYP5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HYVM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (11-inch, Early 2015)</configCode><locale>en_US</locale></root>

@@ -3,6 +3,10 @@ J0DG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J0DH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 J0DJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 J0DK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, Late 2015)</configCode><locale>en_US</locale></root>
+J1D9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+J1DC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+J1DD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+J1DF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
 J1DY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1F0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1F1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
@@ -104,6 +108,20 @@ J93L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J93M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J93N: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J93P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+J9HX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+J9J1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9J9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9JD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9JF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9JG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+J9JH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 J9JM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J9JN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J9JP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
@@ -125,6 +143,9 @@ J9K7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J9K8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J9K9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J9KC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+J9TN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+J9TP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+J9TQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J9X4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 J9X5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 J9X6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -132,7 +153,24 @@ J9X7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J9X8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J9X9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J9XC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+J9XD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, 2017)</configCode><locale>en_US</locale></root>
+JC5J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 JC5L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JC9H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 JCCR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 JCCT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JCD6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+JCND: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JCPR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+JCYQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JD04: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+JD06: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+JD9D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+JFLY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+JFPW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JFRR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JGDR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JGDT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JHTD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+JHTF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 JXK1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
