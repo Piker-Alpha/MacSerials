@@ -631,6 +631,8 @@ HV90: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HWCG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2016)</configCode><locale>en_US</locale></root>
 HWCH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 HWH2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+HX87: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+HX8F: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
 HX8R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 HX8X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 HX96: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
