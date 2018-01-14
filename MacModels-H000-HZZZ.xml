@@ -457,6 +457,7 @@ HN8P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HND6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
 HND7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
 HND8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
+HNM4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple TV 4K (5th generation)</configCode><locale>en_US</locale></root>
 HP34: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 HP35: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 HP36: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
@@ -563,6 +564,7 @@ HPYP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 HQ9T: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HQ9V: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 HQ9W: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
+HQK8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>HomePod (Early 2018)</configCode><locale>en_US</locale></root>
 HRMD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 HRMF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
 HRMG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>

@@ -289,7 +289,7 @@ FD9H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 FD9J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Mac mini (Late 2012)</configCode><locale>en_US</locale></root>
 FD9K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Mac mini (Late 2012)</configCode><locale>en_US</locale></root>
 FDWK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Mac mini (Late 2012)</configCode><locale>en_US</locale></root>
-FF54: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+FF54: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple TV (3rd generation)</configCode><locale>en_US</locale></root>
 FF7L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2012)</configCode><locale>en_US</locale></root>
 FF9R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 5s</configCode><locale>en_US</locale></root>
 FF9V: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 5s</configCode><locale>en_US</locale></root>

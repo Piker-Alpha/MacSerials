@@ -1,4 +1,6 @@
 J094: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J0CW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J0CX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J0DG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 J0DH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
 J0DJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, Late 2015)</configCode><locale>en_US</locale></root>
@@ -12,6 +14,8 @@ J1F0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J1F1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1F2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1F3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J1FY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J1G0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1G5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 J1G6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 J1G7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -25,13 +29,14 @@ J1GH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J1GJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J1GK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J1GL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
-J1GM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+J1GM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1GN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J1GP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J1GQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
-J1GR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+J1GR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J1GT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
-J1GV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+J1GV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J1WF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple TV 4K (5th generation)</configCode><locale>en_US</locale></root>
 J1WK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J1WL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J1WM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -41,6 +46,7 @@ J21W: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J262: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
 J263: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
 J264: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (12.9-inch) (2nd generation) Wi-Fi</configCode><locale>en_US</locale></root>
+J265: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>HomePod (Early 2018)</configCode><locale>en_US</locale></root>
 J28K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch) Wi-Fi</configCode><locale>en_US</locale></root>
 J28L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch) Wi-Fi</configCode><locale>en_US</locale></root>
 J28M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch) Wi-Fi</configCode><locale>en_US</locale></root>
@@ -55,16 +61,38 @@ J2D1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J2D2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2D3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2D4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
+J2GJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J2H6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2H7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2H8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2HF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPad Pro (10.5-inch)  Wi-Fi + Cellular</configCode><locale>en_US</locale></root>
 J2K1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J2K6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Powerbeats3 Wireless</configCode><locale>en_US</locale></root>
+J2VW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J2VX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J2VY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J2W0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J3RW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Mac Pro (Late 2013)</configCode><locale>en_US</locale></root>
 J3RY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Mac Pro (Late 2013)</configCode><locale>en_US</locale></root>
 J4NY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 13-inch, Early 2015)</configCode><locale>en_US</locale></root>
+J529: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J5KM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+J5KN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+J5KP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7</configCode><locale>en_US</locale></root>
+J5KQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+J5KR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
+J5KT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 7 Plus</configCode><locale>en_US</locale></root>
 J5KW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+J5W0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J5W1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J5WY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J5X6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
 J608: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 J609: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J60C: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -75,6 +103,66 @@ J65G: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J69C: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (Retina, 13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 J6CP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J6CQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+J6DT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6DV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6DW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6DY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6F1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6FD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6FH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6FJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6FK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6FL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6GV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6H5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6H6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6H8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6H9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6HY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6J7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6M9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6ML: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Stainless Steel 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6MY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Edition 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6N0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6N1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
+J6NF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 Hermès 42mm (3rd gen)</configCode><locale>en_US</locale></root>
 J6VL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, Early 2015)</configCode><locale>en_US</locale></root>
 J762: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (11-inch, Early 2015)</configCode><locale>en_US</locale></root>
 J86T: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Smart Keyboard</configCode><locale>en_US</locale></root>
@@ -83,11 +171,16 @@ J8F0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J8F1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J8F2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 J8KC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+J8MR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Nike+ 38mm (3rd gen)</configCode><locale>en_US</locale></root>
+J8MT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple Watch Series 3 GPS Nike+ 42mm (3rd gen)</configCode><locale>en_US</locale></root>
 J8N7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J8XG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J8XH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 J925: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J926: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
+J927: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J92M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+J92P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 J931: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J932: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 J933: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -154,13 +247,65 @@ J9X8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 J9X9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J9XC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 J9XD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, 2017)</configCode><locale>en_US</locale></root>
+JC2H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JC2K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JC3X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JC40: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 JC5J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook (Retina, 12-inch, Early 2016)</configCode><locale>en_US</locale></root>
-JC5L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JC5L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JC67: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC68: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC69: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6C: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6F: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6G: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6K: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6L: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6M: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6N: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6P: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6Q: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6T: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
+JC6V: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8</configCode><locale>en_US</locale></root>
 JC9H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 JCCR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
-JCCT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JCCT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
 JCD6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
-JCND: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JCL6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCL7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCL8: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCL9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLC: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLJ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLK: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLL: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone X</configCode><locale>en_US</locale></root>
+JCLM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCLY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM3: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM4: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM5: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM6: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCM7: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iPhone 8 Plus</configCode><locale>en_US</locale></root>
+JCND: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
 JCPR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
 JCYQ: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
 JD04: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
@@ -169,8 +314,38 @@ JD9D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configC
 JFLY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
 JFPW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 JFRR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JG2X: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>Apple TV (4th generation)</configCode><locale>en_US</locale></root>
 JGDR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 JGDT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
 JHTD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (15-inch, 2017)</configCode><locale>en_US</locale></root>
 JHTF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
-JXK1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JJ3D: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+JJ3F: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JJ3G: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JJ3H: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JJ3J: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JKF9: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
+JKHD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+JKHF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Air (13-inch, 2017)</configCode><locale>en_US</locale></root>
+JKXH: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)</configCode><locale>en_US</locale></root>
+JKXM: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)</configCode><locale>en_US</locale></root>
+JL53: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JL54: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JL55: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCN: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCP: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCR: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCT: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCV: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCW: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCX: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLCY: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLD0: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLD1: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JLD2: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac Pro (2017)</configCode><locale>en_US</locale></root>
+JM3R: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JM3V: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JMWG: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode></configCode><locale>en_US</locale></root>
+JNGD: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JNGF: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 5K, 27-inch, 2017)</configCode><locale>en_US</locale></root>
+JP10: <?xml version="1.0" encoding="utf-8" ?><root><name>CPU Name</name><configCode>iMac (Retina 4K, 21.5-inch, 2017)</configCode><locale>en_US</locale></root>
